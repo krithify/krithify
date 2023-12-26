@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krithify
+- 👋 Hi, I’m @krithify, My name is a Kiruthika nad its a name of the Star!!! cool isnt it!!
 - 👀 I’m interested in exploring tools to work with traditonal medicine. codes to frame drugs like ADMET
 - 🌱 I’m currently learning the basics of coding and engaging in crypto field
 - 💞️ I’m looking to collaborate on running node/validators and also in biology
